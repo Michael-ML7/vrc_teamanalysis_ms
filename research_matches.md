@@ -1,205 +1,205 @@
-| Match Name | Start Date | Start Time | Red Score | Blue Score | Red Team 1 | Red Team 2 | Blue Team 1 | Blue Team 2 | Red Adv. | Video Timestamp |
-|----------|----------|----------|---------|----------|----------|----------|-----------|-----------|--------|---------------|
-| Qualifier #1 | not started | not started | 0 | 0 | 66799T | 1831A | 24658J | 78877A | 0.15134267274531776 | na |
-| Qualifier #2 | not started | not started | 0 | 0 | 27908V | 2616V | 7481E | 2502M | 0.04671245591827611 | na |
-| Qualifier #3 | not started | not started | 0 | 0 | 1698A | 9364X | 8778Z | 50021A | 0.03631685895791237 | na |
-| Qualifier #4 | not started | not started | 0 | 0 | 38247A | 857V | 47510A | 40994B | 0.3582080879431424 | na |
-| Qualifier #5 | not started | not started | 0 | 0 | 18716A | 1281Z | 76426C | 3588Y | -0.21272358582878126 | na |
-| Qualifier #6 | not started | not started | 0 | 0 | 52800B | 70699A | 12161N | 7139X | 0.3785361553122053 | na |
-| Qualifier #7 | not started | not started | 0 | 0 | 23118R | 75442A | 57711V | 35993B | -0.7472269779662282 | na |
-| Qualifier #8 | not started | not started | 0 | 0 | 95070F | 77774V | 938E | 1089F | 0.7643122765986836 | na |
-| Qualifier #9 | not started | not started | 0 | 0 | 393V | 15155E | 86254X | 9039N | 0.3254053923699922 | na |
-| Qualifier #10 | not started | not started | 0 | 0 | 79901A | 33705X | 99009B | 17760R | -0.34712045102006195 | na |
-| Qualifier #11 | not started | not started | 0 | 0 | 97310C | 3012A | 10012W | 89089Y | 0.027444024471050987 | na |
-| Qualifier #12 | not started | not started | 0 | 0 | 2088B | 79298P | 1231B | 8223Z | -0.18098424913070965 | na |
-| Qualifier #13 | not started | not started | 0 | 0 | 106D | 61187E | 7830N | 1028G | 0.06466851975635546 | na |
-| Qualifier #14 | not started | not started | 0 | 0 | 73548A | 9568X | 4613P | 11556A | -0.0817987487621572 | na |
-| Qualifier #15 | not started | not started | 0 | 0 | 31319X | 6390F | 18190Y | 38Z | -0.04445170483565675 | na |
-| Qualifier #16 | not started | not started | 0 | 0 | 54008B | 10102Z | 4139B | 663J | 0.29081506484751896 | na |
-| Qualifier #17 | not started | not started | 0 | 0 | 8871A | 20315B | 56448B | 64410A | 0.5050025430902739 | na |
-| Qualifier #18 | not started | not started | 0 | 0 | 43010S | 3168H | 4886P | 74074E | -0.5132309777936234 | na |
-| Qualifier #19 | not started | not started | 0 | 0 | 45000B | 4591X | 71610R | 1474X | 0.1340433097530469 | na |
-| Qualifier #20 | not started | not started | 0 | 0 | 98548N | 83561A | 29566V | 99656A | 0.15051364331622508 | na |
-| Qualifier #21 | not started | not started | 0 | 0 | 12768A | 35993B | 1281Z | 66799T | 0.07578567458082941 | na |
-| Qualifier #22 | not started | not started | 0 | 0 | 8778Z | 78877A | 47510A | 7139X | -0.05361831833762354 | na |
-| Qualifier #23 | not started | not started | 0 | 0 | 89089Y | 17760R | 1698A | 12161N | -0.036450030410109746 | na |
-| Qualifier #24 | not started | not started | 0 | 0 | 3588Y | 1231B | 2616V | 50021A | 0.07373678462458155 | na |
-| Qualifier #25 | not started | not started | 0 | 0 | 1831A | 9364X | 38247A | 52800B | -0.14481227547974407 | na |
-| Qualifier #26 | not started | not started | 0 | 0 | 54008B | 938E | 97310C | 61187E | 0.22907258119775653 | na |
-| Qualifier #27 | not started | not started | 0 | 0 | 86254X | 106D | 75442A | 31319X | 0.7913951718055325 | na |
-| Qualifier #28 | not started | not started | 0 | 0 | 8223Z | 99009B | 3012A | 4886P | 0.4537874747603272 | na |
-| Qualifier #29 | not started | not started | 0 | 0 | 24658J | 663J | 73548A | 71610R | 0.9107781182157796 | na |
-| Qualifier #30 | not started | not started | 0 | 0 | 64410A | 98548N | 23118R | 45000B | -0.32605541616376255 | na |
-| Qualifier #31 | not started | not started | 0 | 0 | 1089F | 57711V | 12768A | 7481E | 0.1996877348541246 | na |
-| Qualifier #32 | not started | not started | 0 | 0 | 38Z | 9039N | 83561A | 9568X | -0.31809638958419983 | na |
-| Qualifier #33 | not started | not started | 0 | 0 | 29566V | 43010S | 79901A | 27908V | 1.0598808660160741 | na |
-| Qualifier #34 | not started | not started | 0 | 0 | 70699A | 8871A | 10102Z | 95070F | -0.20122546848154133 | na |
-| Qualifier #35 | not started | not started | 0 | 0 | 1028G | 4613P | 18716A | 33705X | -0.5963198129171206 | na |
-| Qualifier #36 | not started | not started | 0 | 0 | 74074E | 77774V | 20315B | 857V | 0.5340837776630782 | na |
-| Qualifier #37 | not started | not started | 0 | 0 | 99656A | 10012W | 15155E | 56448B | 0.09205012349804464 | na |
-| Qualifier #38 | not started | not started | 0 | 0 | 7830N | 40994B | 4139B | 18190Y | -0.5150035717299928 | na |
-| Qualifier #39 | not started | not started | 0 | 0 | 11556A | 2502M | 4591X | 2088B | 0.34071764053716136 | na |
-| Qualifier #40 | not started | not started | 0 | 0 | 6390F | 1474X | 79298P | 3168H | 1.301771139930467 | na |
-| Qualifier #41 | not started | not started | 0 | 0 | 76426C | 393V | 52800B | 1089F | -0.014910842687897774 | na |
-| Qualifier #42 | not started | not started | 0 | 0 | 47510A | 75442A | 66799T | 3588Y | -0.8485585914993488 | na |
-| Qualifier #43 | not started | not started | 0 | 0 | 27908V | 78877A | 3012A | 9568X | -0.30388340424281457 | na |
-| Qualifier #44 | not started | not started | 0 | 0 | 12768A | 1698A | 83561A | 64410A | 0.233388517075223 | na |
-| Qualifier #45 | not started | not started | 0 | 0 | 45000B | 663J | 70699A | 1028G | 0.18681690281893837 | na |
-| Qualifier #46 | not started | not started | 0 | 0 | 74074E | 29566V | 8871A | 106D | 0.3333722933114889 | na |
-| Qualifier #47 | not started | not started | 0 | 0 | 99009B | 1281Z | 77774V | 9039N | -0.0953338474072809 | na |
-| Qualifier #48 | not started | not started | 0 | 0 | 4139B | 50021A | 10012W | 38Z | 0.46112250398475685 | na |
-| Qualifier #49 | not started | not started | 0 | 0 | 61187E | 24658J | 98548N | 79901A | 0.6190488644474346 | na |
-| Qualifier #50 | not started | not started | 0 | 0 | 15155E | 17760R | 2502M | 18716A | 0.2895839397643405 | na |
-| Qualifier #51 | not started | not started | 0 | 0 | 1474X | 95070F | 43010S | 8223Z | 0.2074308502773976 | na |
-| Qualifier #52 | not started | not started | 0 | 0 | 938E | 3168H | 73548A | 57711V | -0.16623511415355152 | na |
-| Qualifier #53 | not started | not started | 0 | 0 | 97310C | 31319X | 1231B | 35993B | -0.6171751126397103 | na |
-| Qualifier #54 | not started | not started | 0 | 0 | 99656A | 33705X | 23118R | 1831A | 0.41066350317557954 | na |
-| Qualifier #55 | not started | not started | 0 | 0 | 2088B | 12161N | 6390F | 2616V | -0.940048267731892 | na |
-| Qualifier #56 | not started | not started | 0 | 0 | 7481E | 86254X | 10102Z | 89089Y | -0.05617507315899939 | na |
-| Qualifier #57 | not started | not started | 0 | 0 | 7830N | 38247A | 4613P | 393V | 0.4313506688225456 | na |
-| Qualifier #58 | not started | not started | 0 | 0 | 71610R | 11556A | 9364X | 20315B | -0.32296508328566853 | na |
-| Qualifier #59 | not started | not started | 0 | 0 | 7139X | 18190Y | 4591X | 54008B | 0.6755815677318482 | na |
-| Qualifier #60 | not started | not started | 0 | 0 | 4886P | 76426C | 8778Z | 40994B | -0.32201977683214256 | na |
-| Qualifier #61 | not started | not started | 0 | 0 | 56448B | 857V | 79298P | 98548N | -0.13394728688680058 | na |
-| Qualifier #62 | not started | not started | 0 | 0 | 52800B | 18716A | 24658J | 27908V | -0.37078438000119096 | na |
-| Qualifier #63 | not started | not started | 0 | 0 | 3012A | 47510A | 12768A | 3168H | 0.06845086766294861 | na |
-| Qualifier #64 | not started | not started | 0 | 0 | 57711V | 663J | 97310C | 8871A | -0.06575233825296722 | na |
-| Qualifier #65 | not started | not started | 0 | 0 | 2502M | 1089F | 106D | 6390F | -0.9277192999025463 | na |
-| Qualifier #66 | not started | not started | 0 | 0 | 1231B | 12161N | 15155E | 1281Z | -0.5422514239312699 | na |
-| Qualifier #67 | not started | not started | 0 | 0 | 3588Y | 4613P | 29566V | 1474X | -0.5646077035543278 | na |
-| Qualifier #68 | not started | not started | 0 | 0 | 2616V | 71610R | 43010S | 83561A | -0.5013175336914236 | na |
-| Qualifier #69 | not started | not started | 0 | 0 | 9364X | 7139X | 393V | 75442A | -0.140554724912072 | na |
-| Qualifier #70 | not started | not started | 0 | 0 | 95070F | 50021A | 7830N | 86254X | -0.07048442408007816 | na |
-| Qualifier #71 | not started | not started | 0 | 0 | 73548A | 56448B | 77774V | 33705X | -1.4357164498995767 | na |
-| Qualifier #72 | not started | not started | 0 | 0 | 4591X | 857V | 61187E | 31319X | 0.10411279503098803 | na |
-| Qualifier #73 | not started | not started | 0 | 0 | 4139B | 8223Z | 45000B | 38247A | -0.08514157682779366 | na |
-| Qualifier #74 | not started | not started | 0 | 0 | 66799T | 79298P | 54008B | 1698A | -0.48837333808735006 | na |
-| Qualifier #75 | not started | not started | 0 | 0 | 23118R | 40994B | 938E | 70699A | -0.14614441830657943 | na |
-| Qualifier #76 | not started | not started | 0 | 0 | 10012W | 35993B | 1831A | 76426C | 0.7221618201390425 | na |
-| Qualifier #77 | not started | not started | 0 | 0 | 7481E | 38Z | 78877A | 99009B | -0.1663335561750463 | na |
-| Qualifier #78 | not started | not started | 0 | 0 | 18190Y | 99656A | 17760R | 11556A | 0.210275369827019 | na |
-| Qualifier #79 | not started | not started | 0 | 0 | 79901A | 9568X | 4886P | 20315B | -0.7423572478696295 | na |
-| Qualifier #80 | not started | not started | 0 | 0 | 8778Z | 1028G | 74074E | 10102Z | -0.7661010729028024 | na |
-| Qualifier #81 | not started | not started | 0 | 0 | 89089Y | 64410A | 2088B | 9039N | -0.2342651370222425 | na |
-| Qualifier #82 | not started | not started | 0 | 0 | 73548A | 1281Z | 98548N | 4591X | 0.04355939360295935 | na |
-| Qualifier #83 | not started | not started | 0 | 0 | 15155E | 27908V | 77774V | 3588Y | -0.8741725888794509 | na |
-| Qualifier #84 | not started | not started | 0 | 0 | 29566V | 18716A | 2616V | 56448B | 0.14582904563967714 | na |
-| Qualifier #85 | not started | not started | 0 | 0 | 23118R | 86254X | 8871A | 12768A | 0.13086393201768454 | na |
-| Qualifier #86 | not started | not started | 0 | 0 | 4613P | 66799T | 95070F | 9364X | 0.051988968574611105 | na |
-| Qualifier #87 | not started | not started | 0 | 0 | 38Z | 33705X | 38247A | 7139X | 0.047050868494858955 | na |
-| Qualifier #88 | not started | not started | 0 | 0 | 76426C | 1698A | 1231B | 99656A | 0.06933334101777522 | na |
-| Qualifier #89 | not started | not started | 0 | 0 | 3168H | 35993B | 1089F | 50021A | 0.12075736472578757 | na |
-| Qualifier #90 | not started | not started | 0 | 0 | 10102Z | 938E | 79298P | 2502M | 0.27167081384655356 | na |
-| Qualifier #91 | not started | not started | 0 | 0 | 64410A | 10012W | 40994B | 61187E | 0.010250867709682865 | na |
-| Qualifier #92 | not started | not started | 0 | 0 | 83561A | 4886P | 663J | 11556A | 0.08416358945894897 | na |
-| Qualifier #93 | not started | not started | 0 | 0 | 7830N | 9039N | 47510A | 70699A | -0.14736141077437104 | na |
-| Qualifier #94 | not started | not started | 0 | 0 | 12161N | 43010S | 857V | 106D | -0.7350119813876957 | na |
-| Qualifier #95 | not started | not started | 0 | 0 | 7481E | 17760R | 71610R | 1028G | 0.37375548140739334 | na |
-| Qualifier #96 | not started | not started | 0 | 0 | 97310C | 24658J | 8778Z | 4139B | 0.11946843613124614 | na |
-| Qualifier #97 | not started | not started | 0 | 0 | 57711V | 74074E | 79901A | 2088B | 0.9159746428437118 | na |
-| Qualifier #98 | not started | not started | 0 | 0 | 1831A | 31319X | 89089Y | 45000B | -0.6427958954438532 | na |
-| Qualifier #99 | not started | not started | 0 | 0 | 9568X | 18190Y | 75442A | 99009B | 0.20797138436521534 | na |
-| Qualifier #100 | not started | not started | 0 | 0 | 3012A | 54008B | 52800B | 1474X | 0.05047011312772476 | na |
-| Qualifier #101 | not started | not started | 0 | 0 | 78877A | 6390F | 8223Z | 393V | 0.0027796884194875027 | na |
-| Qualifier #102 | not started | not started | 0 | 0 | 20315B | 98548N | 10102Z | 50021A | 0.013471958744208479 | na |
-| Qualifier #103 | not started | not started | 0 | 0 | 38247A | 9039N | 73548A | 35993B | -0.11141612697044789 | na |
-| Qualifier #104 | not started | not started | 0 | 0 | 61187E | 4886P | 18716A | 9364X | 0.11466517033075785 | na |
-| Qualifier #105 | not started | not started | 0 | 0 | 83561A | 1028G | 95070F | 23118R | 0.044499426627987004 | na |
-| Qualifier #106 | not started | not started | 0 | 0 | 4139B | 2502M | 86254X | 857V | 0.00024291672480991622 | na |
-| Qualifier #107 | not started | not started | 0 | 0 | 47510A | 2088B | 38Z | 29566V | -0.10551705692577085 | na |
-| Qualifier #108 | not started | not started | 0 | 0 | 45000B | 7139X | 938E | 76426C | 1.0708458166179957 | na |
-| Qualifier #109 | not started | not started | 0 | 0 | 1089F | 79298P | 27908V | 70699A | -0.15171846877374695 | na |
-| Qualifier #110 | not started | not started | 0 | 0 | 40994B | 71610R | 33705X | 3012A | -0.6963094166149641 | na |
-| Qualifier #111 | not started | not started | 0 | 0 | 52800B | 75442A | 10012W | 78877A | -0.09909895629765142 | na |
-| Qualifier #112 | not started | not started | 0 | 0 | 8223Z | 74074E | 7481E | 9568X | 0.6437362677619047 | na |
-| Qualifier #113 | not started | not started | 0 | 0 | 2616V | 1698A | 15155E | 663J | 0.3779984971277859 | na |
-| Qualifier #114 | not started | not started | 0 | 0 | 8871A | 1231B | 77774V | 18190Y | -0.8690810546167818 | na |
-| Qualifier #115 | not started | not started | 0 | 0 | 56448B | 57711V | 66799T | 43010S | -0.6613568176828298 | na |
-| Qualifier #116 | not started | not started | 0 | 0 | 20315B | 12768A | 106D | 8778Z | -0.21969991237594244 | na |
-| Qualifier #117 | not started | not started | 0 | 0 | 7830N | 11556A | 31319X | 12161N | 0.7700361606022273 | na |
-| Qualifier #118 | not started | not started | 0 | 0 | 4613P | 6390F | 1281Z | 64410A | 0.3122842513508638 | na |
-| Qualifier #119 | not started | not started | 0 | 0 | 24658J | 89089Y | 54008B | 99656A | 0.09916023022073639 | na |
-| Qualifier #120 | not started | not started | 0 | 0 | 3588Y | 99009B | 3168H | 4591X | 1.1430203527084641 | na |
-| Qualifier #121 | not started | not started | 0 | 0 | 393V | 1474X | 97310C | 79901A | 1.0276408312345007 | na |
-| Qualifier #122 | not started | not started | 0 | 0 | 70699A | 1831A | 73548A | 17760R | 0.736794535206521 | na |
-| Qualifier #123 | not started | not started | 0 | 0 | 35993B | 10102Z | 18716A | 78877A | 0.9822964078745141 | na |
-| Qualifier #124 | not started | not started | 0 | 0 | 40994B | 9568X | 8871A | 45000B | -0.2969441701103932 | na |
-| Qualifier #125 | not started | not started | 0 | 0 | 29566V | 66799T | 938E | 7481E | 0.7227205395083953 | na |
-| Qualifier #126 | not started | not started | 0 | 0 | 106D | 52800B | 1231B | 663J | 0.25481775905929094 | na |
-| Qualifier #127 | not started | not started | 0 | 0 | 98548N | 8778Z | 2616V | 95070F | -0.2721107788549131 | na |
-| Qualifier #128 | not started | not started | 0 | 0 | 76426C | 38Z | 2502M | 9364X | -0.07634346683492588 | na |
-| Qualifier #129 | not started | not started | 0 | 0 | 8223Z | 23118R | 54008B | 11556A | -0.3840016892747635 | na |
-| Qualifier #130 | not started | not started | 0 | 0 | 9039N | 27908V | 57711V | 4886P | -0.4286679573556047 | na |
-| Qualifier #131 | not started | not started | 0 | 0 | 1089F | 47510A | 74074E | 4613P | -0.20414929989011188 | na |
-| Qualifier #132 | not started | not started | 0 | 0 | 89089Y | 99009B | 56448B | 1474X | 0.07736794776402323 | na |
-| Qualifier #133 | not started | not started | 0 | 0 | 64410A | 43010S | 3012A | 38247A | -0.136318995004161 | na |
-| Qualifier #134 | not started | not started | 0 | 0 | 1028G | 79901A | 86254X | 1831A | -0.8884305307559217 | na |
-| Qualifier #135 | not started | not started | 0 | 0 | 857V | 83561A | 1281Z | 2088B | 0.0727823118465325 | na |
-| Qualifier #136 | not started | not started | 0 | 0 | 50021A | 12768A | 31319X | 15155E | 0.022630013204683275 | na |
-| Qualifier #137 | not started | not started | 0 | 0 | 33705X | 3588Y | 1698A | 20315B | 0.3580527124464834 | na |
-| Qualifier #138 | not started | not started | 0 | 0 | 12161N | 4591X | 75442A | 4139B | -1.0668164372122195 | na |
-| Qualifier #139 | not started | not started | 0 | 0 | 393V | 10012W | 71610R | 18190Y | 0.4539519362220261 | na |
-| Qualifier #140 | not started | not started | 0 | 0 | 77774V | 97310C | 17760R | 6390F | 0.19098108550497916 | na |
-| Qualifier #141 | not started | not started | 0 | 0 | 7139X | 79298P | 24658J | 7830N | -0.5466603421044084 | na |
-| Qualifier #142 | not started | not started | 0 | 0 | 3168H | 99656A | 61187E | 663J | -0.027017335797917985 | na |
-| Qualifier #143 | not started | not started | 0 | 0 | 3012A | 45000B | 1089F | 29566V | 0.282044839917287 | na |
-| Qualifier #144 | not started | not started | 0 | 0 | 76426C | 66799T | 98548N | 1028G | -0.046848921246769315 | na |
-| Qualifier #145 | not started | not started | 0 | 0 | 73548A | 79901A | 2616V | 23118R | -0.7823085604358748 | na |
-| Qualifier #146 | not started | not started | 0 | 0 | 89089Y | 27908V | 8223Z | 35993B | -0.9826175013830696 | na |
-| Qualifier #147 | not started | not started | 0 | 0 | 95070F | 1831A | 64410A | 3588Y | 0.05740356711598249 | na |
-| Qualifier #148 | not started | not started | 0 | 0 | 2502M | 54008B | 47510A | 50021A | 0.3705053848703753 | na |
-| Qualifier #149 | not started | not started | 0 | 0 | 31319X | 1474X | 70699A | 1698A | -0.48241365226192423 | na |
-| Qualifier #150 | not started | not started | 0 | 0 | 12768A | 393V | 857V | 9568X | -0.15115351718471848 | na |
-| Qualifier #151 | not started | not started | 0 | 0 | 20315B | 86254X | 40994B | 12161N | 0.5915228565246615 | na |
-| Qualifier #152 | not started | not started | 0 | 0 | 10012W | 74074E | 7139X | 6390F | -0.14486838045643147 | na |
-| Qualifier #153 | not started | not started | 0 | 0 | 77774V | 61187E | 11556A | 7481E | 0.12138983979002682 | na |
-| Qualifier #154 | not started | not started | 0 | 0 | 18190Y | 938E | 52800B | 9039N | 0.40441361704369283 | na |
-| Qualifier #155 | not started | not started | 0 | 0 | 15155E | 106D | 97310C | 4591X | 0.9201258685953673 | na |
-| Qualifier #156 | not started | not started | 0 | 0 | 71610R | 2088B | 8778Z | 8871A | -0.23022208124455068 | na |
-| Qualifier #157 | not started | not started | 0 | 0 | 1231B | 83561A | 4613P | 99009B | 0.21763008091717684 | na |
-| Qualifier #158 | not started | not started | 0 | 0 | 10102Z | 75442A | 1281Z | 43010S | 0.0776045695184433 | na |
-| Qualifier #159 | not started | not started | 0 | 0 | 4139B | 18716A | 57711V | 99656A | 0.2662378205307754 | na |
-| Qualifier #160 | not started | not started | 0 | 0 | 56448B | 17760R | 24658J | 38Z | -0.6553425903259662 | na |
-| Qualifier #161 | not started | not started | 0 | 0 | 38247A | 4886P | 79298P | 78877A | 0.41471758643463863 | na |
-| Qualifier #162 | not started | not started | 0 | 0 | 9364X | 33705X | 7830N | 3168H | 0.3215165781618239 | na |
-| Qualifier #163 | not started | not started | 0 | 0 | 35993B | 95070F | 12161N | 9568X | 0.9802419494719482 | na |
-| Qualifier #164 | not started | not started | 0 | 0 | 3012A | 663J | 393V | 23118R | -0.1106387069762238 | na |
-| Qualifier #165 | not started | not started | 0 | 0 | 20315B | 8223Z | 47510A | 1028G | 0.6080018724311417 | na |
-| Qualifier #166 | not started | not started | 0 | 0 | 86254X | 29566V | 18190Y | 97310C | -0.053808566438437566 | na |
-| Qualifier #167 | not started | not started | 0 | 0 | 99009B | 2088B | 66799T | 73548A | 0.3818937298721474 | na |
-| Qualifier #168 | not started | not started | 0 | 0 | 77774V | 106D | 4613P | 54008B | 0.8124019273069993 | na |
-| Qualifier #169 | not started | not started | 0 | 0 | 79901A | 6390F | 75442A | 18716A | -0.09389979849502428 | na |
-| Qualifier #170 | not started | not started | 0 | 0 | 8871A | 98548N | 89089Y | 4139B | -0.25088115534519195 | na |
-| Qualifier #171 | not started | not started | 0 | 0 | 1231B | 1474X | 7139X | 40994B | 0.147293543938948 | na |
-| Qualifier #172 | not started | not started | 0 | 0 | 2616V | 1089F | 38Z | 7830N | 0.21081853824373598 | na |
-| Qualifier #173 | not started | not started | 0 | 0 | 50021A | 24658J | 76426C | 43010S | 0.5783359060992437 | na |
-| Qualifier #174 | not started | not started | 0 | 0 | 99656A | 2502M | 38247A | 71610R | 0.18405027415243191 | na |
-| Qualifier #175 | not started | not started | 0 | 0 | 8778Z | 857V | 9039N | 1831A | 0.15614556991492368 | na |
-| Qualifier #176 | not started | not started | 0 | 0 | 1281Z | 78877A | 17760R | 3168H | 0.17317574101323563 | na |
-| Qualifier #177 | not started | not started | 0 | 0 | 4591X | 64410A | 4886P | 10102Z | -0.7964957556691656 | na |
-| Qualifier #178 | not started | not started | 0 | 0 | 9364X | 938E | 56448B | 12768A | 0.02115113615915143 | na |
-| Qualifier #179 | not started | not started | 0 | 0 | 11556A | 57711V | 45000B | 1698A | -0.6684818126250796 | na |
-| Qualifier #180 | not started | not started | 0 | 0 | 7481E | 70699A | 15155E | 83561A | -0.07308361799346441 | na |
-| Qualifier #181 | not started | not started | 0 | 0 | 3588Y | 31319X | 79298P | 52800B | 0.3297076365487841 | na |
-| Qualifier #182 | not started | not started | 0 | 0 | 61187E | 33705X | 27908V | 74074E | 0.07716560406796558 | na |
-| Qualifier #183 | not started | not started | 0 | 0 | 8871A | 8223Z | 66799T | 10012W | -0.2740085276430513 | na |
-| Qualifier #184 | not started | not started | 0 | 0 | 18190Y | 50021A | 79901A | 89089Y | 1.0060687839000413 | na |
-| Qualifier #185 | not started | not started | 0 | 0 | 2088B | 4139B | 95070F | 3012A | 0.5159874367252395 | na |
-| Qualifier #186 | not started | not started | 0 | 0 | 7139X | 9568X | 99656A | 1281Z | 0.23117672493682406 | na |
-| Qualifier #187 | not started | not started | 0 | 0 | 1028G | 54008B | 64410A | 73548A | 0.6026587587149441 | na |
-| Qualifier #188 | not started | not started | 0 | 0 | 12768A | 75442A | 24658J | 1474X | -0.8928145466182226 | na |
-| Qualifier #189 | not started | not started | 0 | 0 | 4591X | 78877A | 57711V | 29566V | -0.7780250543279977 | na |
-| Qualifier #190 | not started | not started | 0 | 0 | 7830N | 20315B | 2502M | 35993B | -0.1393412441125499 | na |
-| Qualifier #191 | not started | not started | 0 | 0 | 52800B | 4886P | 6390F | 1698A | -0.9342686593792174 | na |
-| Qualifier #192 | not started | not started | 0 | 0 | 15155E | 38Z | 4613P | 10102Z | 0.17586082040362006 | na |
-| Qualifier #193 | not started | not started | 0 | 0 | 8778Z | 11556A | 1231B | 938E | 0.23952773494495594 | na |
-| Qualifier #194 | not started | not started | 0 | 0 | 98548N | 43010S | 33705X | 31319X | 0.14814634908674384 | na |
-| Qualifier #195 | not started | not started | 0 | 0 | 12161N | 23118R | 56448B | 74074E | -0.5121498768851237 | na |
-| Qualifier #196 | not started | not started | 0 | 0 | 663J | 857V | 99009B | 1089F | -0.1389870640032076 | na |
-| Qualifier #197 | not started | not started | 0 | 0 | 9039N | 3168H | 106D | 71610R | -0.1413787229339898 | na |
-| Qualifier #198 | not started | not started | 0 | 0 | 47510A | 45000B | 9364X | 77774V | 0.11236215565006757 | na |
-| Qualifier #199 | not started | not started | 0 | 0 | 17760R | 38247A | 3588Y | 61187E | -0.0425475308521861 | na |
-| Qualifier #200 | not started | not started | 0 | 0 | 86254X | 27908V | 10012W | 83561A | -0.24123572906777557 | na |
-| Qualifier #201 | not started | not started | 0 | 0 | 40994B | 97310C | 2616V | 1831A | -0.05681690233684922 | na |
-| Qualifier #202 | not started | not started | 0 | 0 | 7481E | 79298P | 393V | 18716A | -0.14194592710031328 | na |
-| Qualifier #203 | not started | not started | 0 | 0 | 70699A | 4613P | 4139B | 76426C | -0.16283653038495327 | na |
+| Match Name | Start Date | Start Time | Scheduled Time | Red Score | Blue Score | Red Team 1 | Red Team 2 | Blue Team 1 | Blue Team 2 | Red Adv. | Video Timestamp |
+|----------|----------|----------|--------------|---------|----------|----------|----------|-----------|-----------|--------|---------------|
+| Qualifier #1 | 2025-05-09 | not started | 17:25:00 | 0 | 0 | 66799T | 1831A | 24658J | 78877A | 0.15134267274531776 | na |
+| Qualifier #2 | 2025-05-09 | not started | 17:28:55 | 0 | 0 | 27908V | 2616V | 7481E | 2502M | 0.04671245591827611 | na |
+| Qualifier #3 | 2025-05-09 | not started | 17:32:50 | 0 | 0 | 1698A | 9364X | 8778Z | 50021A | 0.03631685895791237 | na |
+| Qualifier #4 | 2025-05-09 | not started | 17:36:45 | 0 | 0 | 38247A | 857V | 47510A | 40994B | 0.3582080879431424 | na |
+| Qualifier #5 | 2025-05-09 | not started | 17:40:40 | 0 | 0 | 18716A | 1281Z | 76426C | 3588Y | -0.21272358582878126 | na |
+| Qualifier #6 | 2025-05-09 | not started | 17:44:35 | 0 | 0 | 52800B | 70699A | 12161N | 7139X | 0.3785361553122053 | na |
+| Qualifier #7 | 2025-05-09 | not started | 17:48:30 | 0 | 0 | 23118R | 75442A | 57711V | 35993B | -0.7472269779662282 | na |
+| Qualifier #8 | 2025-05-09 | not started | 17:52:25 | 0 | 0 | 95070F | 77774V | 938E | 1089F | 0.7643122765986836 | na |
+| Qualifier #9 | 2025-05-09 | not started | 17:56:20 | 0 | 0 | 393V | 15155E | 86254X | 9039N | 0.3254053923699922 | na |
+| Qualifier #10 | 2025-05-09 | not started | 18:00:15 | 0 | 0 | 79901A | 33705X | 99009B | 17760R | -0.34712045102006195 | na |
+| Qualifier #11 | 2025-05-09 | not started | 18:04:10 | 0 | 0 | 97310C | 3012A | 10012W | 89089Y | 0.027444024471050987 | na |
+| Qualifier #12 | 2025-05-09 | not started | 18:08:05 | 0 | 0 | 2088B | 79298P | 1231B | 8223Z | -0.18098424913070965 | na |
+| Qualifier #13 | 2025-05-09 | not started | 18:12:00 | 0 | 0 | 106D | 61187E | 7830N | 1028G | 0.06466851975635546 | na |
+| Qualifier #14 | 2025-05-09 | not started | 18:15:55 | 0 | 0 | 73548A | 9568X | 4613P | 11556A | -0.0817987487621572 | na |
+| Qualifier #15 | 2025-05-09 | not started | 18:19:50 | 0 | 0 | 31319X | 6390F | 18190Y | 38Z | -0.04445170483565675 | na |
+| Qualifier #16 | 2025-05-09 | not started | 18:23:45 | 0 | 0 | 54008B | 10102Z | 4139B | 663J | 0.29081506484751896 | na |
+| Qualifier #17 | 2025-05-09 | not started | 18:27:40 | 0 | 0 | 8871A | 20315B | 56448B | 64410A | 0.5050025430902739 | na |
+| Qualifier #18 | 2025-05-09 | not started | 18:31:35 | 0 | 0 | 43010S | 3168H | 4886P | 74074E | -0.5132309777936234 | na |
+| Qualifier #19 | 2025-05-09 | not started | 18:35:30 | 0 | 0 | 45000B | 4591X | 71610R | 1474X | 0.1340433097530469 | na |
+| Qualifier #20 | 2025-05-09 | not started | 18:39:25 | 0 | 0 | 98548N | 83561A | 29566V | 99656A | 0.15051364331622508 | na |
+| Qualifier #21 | 2025-05-09 | not started | 18:43:20 | 0 | 0 | 12768A | 35993B | 1281Z | 66799T | 0.07578567458082941 | na |
+| Qualifier #22 | 2025-05-09 | not started | 18:47:15 | 0 | 0 | 8778Z | 78877A | 47510A | 7139X | -0.05361831833762354 | na |
+| Qualifier #23 | 2025-05-09 | not started | 18:51:10 | 0 | 0 | 89089Y | 17760R | 1698A | 12161N | -0.036450030410109746 | na |
+| Qualifier #24 | 2025-05-09 | not started | 18:55:05 | 0 | 0 | 3588Y | 1231B | 2616V | 50021A | 0.07373678462458155 | na |
+| Qualifier #25 | 2025-05-09 | not started | 18:59:00 | 0 | 0 | 1831A | 9364X | 38247A | 52800B | -0.14481227547974407 | na |
+| Qualifier #26 | 2025-05-10 | not started | 09:15:00 | 0 | 0 | 54008B | 938E | 97310C | 61187E | 0.22907258119775653 | na |
+| Qualifier #27 | 2025-05-10 | not started | 09:18:55 | 0 | 0 | 86254X | 106D | 75442A | 31319X | 0.7913951718055325 | na |
+| Qualifier #28 | 2025-05-10 | not started | 09:22:50 | 0 | 0 | 8223Z | 99009B | 3012A | 4886P | 0.4537874747603272 | na |
+| Qualifier #29 | 2025-05-10 | not started | 09:26:45 | 0 | 0 | 24658J | 663J | 73548A | 71610R | 0.9107781182157796 | na |
+| Qualifier #30 | 2025-05-10 | not started | 09:30:40 | 0 | 0 | 64410A | 98548N | 23118R | 45000B | -0.32605541616376255 | na |
+| Qualifier #31 | 2025-05-10 | not started | 09:34:35 | 0 | 0 | 1089F | 57711V | 12768A | 7481E | 0.1996877348541246 | na |
+| Qualifier #32 | 2025-05-10 | not started | 09:38:30 | 0 | 0 | 38Z | 9039N | 83561A | 9568X | -0.31809638958419983 | na |
+| Qualifier #33 | 2025-05-10 | not started | 09:42:25 | 0 | 0 | 29566V | 43010S | 79901A | 27908V | 1.0598808660160741 | na |
+| Qualifier #34 | 2025-05-10 | not started | 09:46:20 | 0 | 0 | 70699A | 8871A | 10102Z | 95070F | -0.20122546848154133 | na |
+| Qualifier #35 | 2025-05-10 | not started | 09:50:15 | 0 | 0 | 1028G | 4613P | 18716A | 33705X | -0.5963198129171206 | na |
+| Qualifier #36 | 2025-05-10 | not started | 09:54:10 | 0 | 0 | 74074E | 77774V | 20315B | 857V | 0.5340837776630782 | na |
+| Qualifier #37 | 2025-05-10 | not started | 09:58:05 | 0 | 0 | 99656A | 10012W | 15155E | 56448B | 0.09205012349804464 | na |
+| Qualifier #38 | 2025-05-10 | not started | 10:02:00 | 0 | 0 | 7830N | 40994B | 4139B | 18190Y | -0.5150035717299928 | na |
+| Qualifier #39 | 2025-05-10 | not started | 10:05:55 | 0 | 0 | 11556A | 2502M | 4591X | 2088B | 0.34071764053716136 | na |
+| Qualifier #40 | 2025-05-10 | not started | 10:09:50 | 0 | 0 | 6390F | 1474X | 79298P | 3168H | 1.301771139930467 | na |
+| Qualifier #41 | 2025-05-10 | not started | 10:13:45 | 0 | 0 | 76426C | 393V | 52800B | 1089F | -0.014910842687897774 | na |
+| Qualifier #42 | 2025-05-10 | not started | 10:17:40 | 0 | 0 | 47510A | 75442A | 66799T | 3588Y | -0.8485585914993488 | na |
+| Qualifier #43 | 2025-05-10 | not started | 10:21:35 | 0 | 0 | 27908V | 78877A | 3012A | 9568X | -0.30388340424281457 | na |
+| Qualifier #44 | 2025-05-10 | not started | 10:25:30 | 0 | 0 | 12768A | 1698A | 83561A | 64410A | 0.233388517075223 | na |
+| Qualifier #45 | 2025-05-10 | not started | 10:29:25 | 0 | 0 | 45000B | 663J | 70699A | 1028G | 0.18681690281893837 | na |
+| Qualifier #46 | 2025-05-10 | not started | 10:33:20 | 0 | 0 | 74074E | 29566V | 8871A | 106D | 0.3333722933114889 | na |
+| Qualifier #47 | 2025-05-10 | not started | 10:37:15 | 0 | 0 | 99009B | 1281Z | 77774V | 9039N | -0.0953338474072809 | na |
+| Qualifier #48 | 2025-05-10 | not started | 10:41:10 | 0 | 0 | 4139B | 50021A | 10012W | 38Z | 0.46112250398475685 | na |
+| Qualifier #49 | 2025-05-10 | not started | 10:45:05 | 0 | 0 | 61187E | 24658J | 98548N | 79901A | 0.6190488644474346 | na |
+| Qualifier #50 | 2025-05-10 | not started | 10:49:00 | 0 | 0 | 15155E | 17760R | 2502M | 18716A | 0.2895839397643405 | na |
+| Qualifier #51 | 2025-05-10 | not started | 10:52:55 | 0 | 0 | 1474X | 95070F | 43010S | 8223Z | 0.2074308502773976 | na |
+| Qualifier #52 | 2025-05-10 | not started | 10:56:50 | 0 | 0 | 938E | 3168H | 73548A | 57711V | -0.16623511415355152 | na |
+| Qualifier #53 | 2025-05-10 | not started | 11:00:45 | 0 | 0 | 97310C | 31319X | 1231B | 35993B | -0.6171751126397103 | na |
+| Qualifier #54 | 2025-05-10 | not started | 11:04:40 | 0 | 0 | 99656A | 33705X | 23118R | 1831A | 0.41066350317557954 | na |
+| Qualifier #55 | 2025-05-10 | not started | 11:08:35 | 0 | 0 | 2088B | 12161N | 6390F | 2616V | -0.940048267731892 | na |
+| Qualifier #56 | 2025-05-10 | not started | 11:12:30 | 0 | 0 | 7481E | 86254X | 10102Z | 89089Y | -0.05617507315899939 | na |
+| Qualifier #57 | 2025-05-10 | not started | 11:16:25 | 0 | 0 | 7830N | 38247A | 4613P | 393V | 0.4313506688225456 | na |
+| Qualifier #58 | 2025-05-10 | not started | 11:20:20 | 0 | 0 | 71610R | 11556A | 9364X | 20315B | -0.32296508328566853 | na |
+| Qualifier #59 | 2025-05-10 | not started | 11:24:15 | 0 | 0 | 7139X | 18190Y | 4591X | 54008B | 0.6755815677318482 | na |
+| Qualifier #60 | 2025-05-10 | not started | 11:28:10 | 0 | 0 | 4886P | 76426C | 8778Z | 40994B | -0.32201977683214256 | na |
+| Qualifier #61 | 2025-05-10 | not started | 11:32:05 | 0 | 0 | 56448B | 857V | 79298P | 98548N | -0.13394728688680058 | na |
+| Qualifier #62 | 2025-05-10 | not started | 11:36:00 | 0 | 0 | 52800B | 18716A | 24658J | 27908V | -0.37078438000119096 | na |
+| Qualifier #63 | 2025-05-10 | not started | 11:39:55 | 0 | 0 | 3012A | 47510A | 12768A | 3168H | 0.06845086766294861 | na |
+| Qualifier #64 | 2025-05-10 | not started | 11:43:50 | 0 | 0 | 57711V | 663J | 97310C | 8871A | -0.06575233825296722 | na |
+| Qualifier #65 | 2025-05-10 | not started | 11:47:45 | 0 | 0 | 2502M | 1089F | 106D | 6390F | -0.9277192999025463 | na |
+| Qualifier #66 | 2025-05-10 | not started | 11:51:40 | 0 | 0 | 1231B | 12161N | 15155E | 1281Z | -0.5422514239312699 | na |
+| Qualifier #67 | 2025-05-10 | not started | 11:55:35 | 0 | 0 | 3588Y | 4613P | 29566V | 1474X | -0.5646077035543278 | na |
+| Qualifier #68 | 2025-05-10 | not started | 11:59:30 | 0 | 0 | 2616V | 71610R | 43010S | 83561A | -0.5013175336914236 | na |
+| Qualifier #69 | 2025-05-10 | not started | 12:03:25 | 0 | 0 | 9364X | 7139X | 393V | 75442A | -0.140554724912072 | na |
+| Qualifier #70 | 2025-05-10 | not started | 12:07:20 | 0 | 0 | 95070F | 50021A | 7830N | 86254X | -0.07048442408007816 | na |
+| Qualifier #71 | 2025-05-10 | not started | 12:11:15 | 0 | 0 | 73548A | 56448B | 77774V | 33705X | -1.4357164498995767 | na |
+| Qualifier #72 | 2025-05-10 | not started | 12:15:10 | 0 | 0 | 4591X | 857V | 61187E | 31319X | 0.10411279503098803 | na |
+| Qualifier #73 | 2025-05-10 | not started | 12:19:05 | 0 | 0 | 4139B | 8223Z | 45000B | 38247A | -0.08514157682779366 | na |
+| Qualifier #74 | 2025-05-10 | not started | 12:23:00 | 0 | 0 | 66799T | 79298P | 54008B | 1698A | -0.48837333808735006 | na |
+| Qualifier #75 | 2025-05-10 | not started | 12:26:55 | 0 | 0 | 23118R | 40994B | 938E | 70699A | -0.14614441830657943 | na |
+| Qualifier #76 | 2025-05-10 | not started | 12:30:50 | 0 | 0 | 10012W | 35993B | 1831A | 76426C | 0.7221618201390425 | na |
+| Qualifier #77 | 2025-05-10 | not started | 12:34:45 | 0 | 0 | 7481E | 38Z | 78877A | 99009B | -0.1663335561750463 | na |
+| Qualifier #78 | 2025-05-10 | not started | 12:38:40 | 0 | 0 | 18190Y | 99656A | 17760R | 11556A | 0.210275369827019 | na |
+| Qualifier #79 | 2025-05-10 | not started | 12:42:35 | 0 | 0 | 79901A | 9568X | 4886P | 20315B | -0.7423572478696295 | na |
+| Qualifier #80 | 2025-05-10 | not started | 12:46:30 | 0 | 0 | 8778Z | 1028G | 74074E | 10102Z | -0.7661010729028024 | na |
+| Qualifier #81 | 2025-05-10 | not started | 12:50:25 | 0 | 0 | 89089Y | 64410A | 2088B | 9039N | -0.2342651370222425 | na |
+| Qualifier #82 | 2025-05-10 | not started | 12:54:20 | 0 | 0 | 73548A | 1281Z | 98548N | 4591X | 0.04355939360295935 | na |
+| Qualifier #83 | 2025-05-10 | not started | 12:58:15 | 0 | 0 | 15155E | 27908V | 77774V | 3588Y | -0.8741725888794509 | na |
+| Qualifier #84 | 2025-05-10 | not started | 14:00:00 | 0 | 0 | 29566V | 18716A | 2616V | 56448B | 0.14582904563967714 | na |
+| Qualifier #85 | 2025-05-10 | not started | 14:03:55 | 0 | 0 | 23118R | 86254X | 8871A | 12768A | 0.13086393201768454 | na |
+| Qualifier #86 | 2025-05-10 | not started | 14:07:50 | 0 | 0 | 4613P | 66799T | 95070F | 9364X | 0.051988968574611105 | na |
+| Qualifier #87 | 2025-05-10 | not started | 14:11:45 | 0 | 0 | 38Z | 33705X | 38247A | 7139X | 0.047050868494858955 | na |
+| Qualifier #88 | 2025-05-10 | not started | 14:15:40 | 0 | 0 | 76426C | 1698A | 1231B | 99656A | 0.06933334101777522 | na |
+| Qualifier #89 | 2025-05-10 | not started | 14:19:35 | 0 | 0 | 3168H | 35993B | 1089F | 50021A | 0.12075736472578757 | na |
+| Qualifier #90 | 2025-05-10 | not started | 14:23:30 | 0 | 0 | 10102Z | 938E | 79298P | 2502M | 0.27167081384655356 | na |
+| Qualifier #91 | 2025-05-10 | not started | 14:27:25 | 0 | 0 | 64410A | 10012W | 40994B | 61187E | 0.010250867709682865 | na |
+| Qualifier #92 | 2025-05-10 | not started | 14:31:20 | 0 | 0 | 83561A | 4886P | 663J | 11556A | 0.08416358945894897 | na |
+| Qualifier #93 | 2025-05-10 | not started | 14:35:15 | 0 | 0 | 7830N | 9039N | 47510A | 70699A | -0.14736141077437104 | na |
+| Qualifier #94 | 2025-05-10 | not started | 14:39:10 | 0 | 0 | 12161N | 43010S | 857V | 106D | -0.7350119813876957 | na |
+| Qualifier #95 | 2025-05-10 | not started | 14:43:05 | 0 | 0 | 7481E | 17760R | 71610R | 1028G | 0.37375548140739334 | na |
+| Qualifier #96 | 2025-05-10 | not started | 14:47:00 | 0 | 0 | 97310C | 24658J | 8778Z | 4139B | 0.11946843613124614 | na |
+| Qualifier #97 | 2025-05-10 | not started | 14:50:55 | 0 | 0 | 57711V | 74074E | 79901A | 2088B | 0.9159746428437118 | na |
+| Qualifier #98 | 2025-05-10 | not started | 14:54:50 | 0 | 0 | 1831A | 31319X | 89089Y | 45000B | -0.6427958954438532 | na |
+| Qualifier #99 | 2025-05-10 | not started | 14:58:45 | 0 | 0 | 9568X | 18190Y | 75442A | 99009B | 0.20797138436521534 | na |
+| Qualifier #100 | 2025-05-10 | not started | 15:02:40 | 0 | 0 | 3012A | 54008B | 52800B | 1474X | 0.05047011312772476 | na |
+| Qualifier #101 | 2025-05-10 | not started | 15:06:35 | 0 | 0 | 78877A | 6390F | 8223Z | 393V | 0.0027796884194875027 | na |
+| Qualifier #102 | 2025-05-10 | not started | 15:10:30 | 0 | 0 | 20315B | 98548N | 10102Z | 50021A | 0.013471958744208479 | na |
+| Qualifier #103 | 2025-05-10 | not started | 15:14:25 | 0 | 0 | 38247A | 9039N | 73548A | 35993B | -0.11141612697044789 | na |
+| Qualifier #104 | 2025-05-10 | not started | 15:18:20 | 0 | 0 | 61187E | 4886P | 18716A | 9364X | 0.11466517033075785 | na |
+| Qualifier #105 | 2025-05-10 | not started | 15:22:15 | 0 | 0 | 83561A | 1028G | 95070F | 23118R | 0.044499426627987004 | na |
+| Qualifier #106 | 2025-05-10 | not started | 15:26:10 | 0 | 0 | 4139B | 2502M | 86254X | 857V | 0.00024291672480991622 | na |
+| Qualifier #107 | 2025-05-10 | not started | 15:30:05 | 0 | 0 | 47510A | 2088B | 38Z | 29566V | -0.10551705692577085 | na |
+| Qualifier #108 | 2025-05-10 | not started | 15:34:00 | 0 | 0 | 45000B | 7139X | 938E | 76426C | 1.0708458166179957 | na |
+| Qualifier #109 | 2025-05-10 | not started | 15:37:55 | 0 | 0 | 1089F | 79298P | 27908V | 70699A | -0.15171846877374695 | na |
+| Qualifier #110 | 2025-05-10 | not started | 15:41:50 | 0 | 0 | 40994B | 71610R | 33705X | 3012A | -0.6963094166149641 | na |
+| Qualifier #111 | 2025-05-10 | not started | 15:45:45 | 0 | 0 | 52800B | 75442A | 10012W | 78877A | -0.09909895629765142 | na |
+| Qualifier #112 | 2025-05-10 | not started | 15:49:40 | 0 | 0 | 8223Z | 74074E | 7481E | 9568X | 0.6437362677619047 | na |
+| Qualifier #113 | 2025-05-10 | not started | 15:53:35 | 0 | 0 | 2616V | 1698A | 15155E | 663J | 0.3779984971277859 | na |
+| Qualifier #114 | 2025-05-10 | not started | 15:57:30 | 0 | 0 | 8871A | 1231B | 77774V | 18190Y | -0.8690810546167818 | na |
+| Qualifier #115 | 2025-05-10 | not started | 16:01:25 | 0 | 0 | 56448B | 57711V | 66799T | 43010S | -0.6613568176828298 | na |
+| Qualifier #116 | 2025-05-10 | not started | 16:05:20 | 0 | 0 | 20315B | 12768A | 106D | 8778Z | -0.21969991237594244 | na |
+| Qualifier #117 | 2025-05-10 | not started | 16:09:15 | 0 | 0 | 7830N | 11556A | 31319X | 12161N | 0.7700361606022273 | na |
+| Qualifier #118 | 2025-05-10 | not started | 16:13:10 | 0 | 0 | 4613P | 6390F | 1281Z | 64410A | 0.3122842513508638 | na |
+| Qualifier #119 | 2025-05-10 | not started | 16:17:05 | 0 | 0 | 24658J | 89089Y | 54008B | 99656A | 0.09916023022073639 | na |
+| Qualifier #120 | 2025-05-10 | not started | 16:21:00 | 0 | 0 | 3588Y | 99009B | 3168H | 4591X | 1.1430203527084641 | na |
+| Qualifier #121 | 2025-05-10 | not started | 16:24:55 | 0 | 0 | 393V | 1474X | 97310C | 79901A | 1.0276408312345007 | na |
+| Qualifier #122 | 2025-05-10 | not started | 16:28:50 | 0 | 0 | 70699A | 1831A | 73548A | 17760R | 0.736794535206521 | na |
+| Qualifier #123 | 2025-05-10 | not started | 16:32:45 | 0 | 0 | 35993B | 10102Z | 18716A | 78877A | 0.9822964078745141 | na |
+| Qualifier #124 | 2025-05-10 | not started | 16:36:40 | 0 | 0 | 40994B | 9568X | 8871A | 45000B | -0.2969441701103932 | na |
+| Qualifier #125 | 2025-05-10 | not started | 16:40:35 | 0 | 0 | 29566V | 66799T | 938E | 7481E | 0.7227205395083953 | na |
+| Qualifier #126 | 2025-05-10 | not started | 16:44:30 | 0 | 0 | 106D | 52800B | 1231B | 663J | 0.25481775905929094 | na |
+| Qualifier #127 | 2025-05-10 | not started | 16:48:25 | 0 | 0 | 98548N | 8778Z | 2616V | 95070F | -0.2721107788549131 | na |
+| Qualifier #128 | 2025-05-10 | not started | 16:52:20 | 0 | 0 | 76426C | 38Z | 2502M | 9364X | -0.07634346683492588 | na |
+| Qualifier #129 | 2025-05-10 | not started | 16:56:15 | 0 | 0 | 8223Z | 23118R | 54008B | 11556A | -0.3840016892747635 | na |
+| Qualifier #130 | 2025-05-10 | not started | 17:00:10 | 0 | 0 | 9039N | 27908V | 57711V | 4886P | -0.4286679573556047 | na |
+| Qualifier #131 | 2025-05-10 | not started | 17:04:05 | 0 | 0 | 1089F | 47510A | 74074E | 4613P | -0.20414929989011188 | na |
+| Qualifier #132 | 2025-05-10 | not started | 17:08:00 | 0 | 0 | 89089Y | 99009B | 56448B | 1474X | 0.07736794776402323 | na |
+| Qualifier #133 | 2025-05-10 | not started | 17:11:55 | 0 | 0 | 64410A | 43010S | 3012A | 38247A | -0.136318995004161 | na |
+| Qualifier #134 | 2025-05-10 | not started | 17:15:50 | 0 | 0 | 1028G | 79901A | 86254X | 1831A | -0.8884305307559217 | na |
+| Qualifier #135 | 2025-05-10 | not started | 17:19:45 | 0 | 0 | 857V | 83561A | 1281Z | 2088B | 0.0727823118465325 | na |
+| Qualifier #136 | 2025-05-10 | not started | 17:23:40 | 0 | 0 | 50021A | 12768A | 31319X | 15155E | 0.022630013204683275 | na |
+| Qualifier #137 | 2025-05-10 | not started | 17:27:35 | 0 | 0 | 33705X | 3588Y | 1698A | 20315B | 0.3580527124464834 | na |
+| Qualifier #138 | 2025-05-10 | not started | 17:31:30 | 0 | 0 | 12161N | 4591X | 75442A | 4139B | -1.0668164372122195 | na |
+| Qualifier #139 | 2025-05-10 | not started | 17:35:25 | 0 | 0 | 393V | 10012W | 71610R | 18190Y | 0.4539519362220261 | na |
+| Qualifier #140 | 2025-05-10 | not started | 17:39:20 | 0 | 0 | 77774V | 97310C | 17760R | 6390F | 0.19098108550497916 | na |
+| Qualifier #141 | 2025-05-10 | not started | 17:43:15 | 0 | 0 | 7139X | 79298P | 24658J | 7830N | -0.5466603421044084 | na |
+| Qualifier #142 | 2025-05-10 | not started | 17:47:10 | 0 | 0 | 3168H | 99656A | 61187E | 663J | -0.027017335797917985 | na |
+| Qualifier #143 | 2025-05-10 | not started | 17:51:05 | 0 | 0 | 3012A | 45000B | 1089F | 29566V | 0.282044839917287 | na |
+| Qualifier #144 | 2025-05-10 | not started | 17:55:00 | 0 | 0 | 76426C | 66799T | 98548N | 1028G | -0.046848921246769315 | na |
+| Qualifier #145 | 2025-05-10 | not started | 17:58:55 | 0 | 0 | 73548A | 79901A | 2616V | 23118R | -0.7823085604358748 | na |
+| Qualifier #146 | 2025-05-10 | not started | 18:02:50 | 0 | 0 | 89089Y | 27908V | 8223Z | 35993B | -0.9826175013830696 | na |
+| Qualifier #147 | 2025-05-10 | not started | 18:06:45 | 0 | 0 | 95070F | 1831A | 64410A | 3588Y | 0.05740356711598249 | na |
+| Qualifier #148 | 2025-05-10 | not started | 18:10:40 | 0 | 0 | 2502M | 54008B | 47510A | 50021A | 0.3705053848703753 | na |
+| Qualifier #149 | 2025-05-10 | not started | 18:14:35 | 0 | 0 | 31319X | 1474X | 70699A | 1698A | -0.48241365226192423 | na |
+| Qualifier #150 | 2025-05-10 | not started | 18:18:30 | 0 | 0 | 12768A | 393V | 857V | 9568X | -0.15115351718471848 | na |
+| Qualifier #151 | 2025-05-10 | not started | 18:22:25 | 0 | 0 | 20315B | 86254X | 40994B | 12161N | 0.5915228565246615 | na |
+| Qualifier #152 | 2025-05-10 | not started | 18:26:20 | 0 | 0 | 10012W | 74074E | 7139X | 6390F | -0.14486838045643147 | na |
+| Qualifier #153 | 2025-05-10 | not started | 18:30:15 | 0 | 0 | 77774V | 61187E | 11556A | 7481E | 0.12138983979002682 | na |
+| Qualifier #154 | 2025-05-10 | not started | 18:34:10 | 0 | 0 | 18190Y | 938E | 52800B | 9039N | 0.40441361704369283 | na |
+| Qualifier #155 | 2025-05-10 | not started | 18:38:05 | 0 | 0 | 15155E | 106D | 97310C | 4591X | 0.9201258685953673 | na |
+| Qualifier #156 | 2025-05-10 | not started | 18:42:00 | 0 | 0 | 71610R | 2088B | 8778Z | 8871A | -0.23022208124455068 | na |
+| Qualifier #157 | 2025-05-10 | not started | 18:45:55 | 0 | 0 | 1231B | 83561A | 4613P | 99009B | 0.21763008091717684 | na |
+| Qualifier #158 | 2025-05-10 | not started | 18:49:50 | 0 | 0 | 10102Z | 75442A | 1281Z | 43010S | 0.0776045695184433 | na |
+| Qualifier #159 | 2025-05-10 | not started | 18:53:45 | 0 | 0 | 4139B | 18716A | 57711V | 99656A | 0.2662378205307754 | na |
+| Qualifier #160 | 2025-05-10 | not started | 18:57:40 | 0 | 0 | 56448B | 17760R | 24658J | 38Z | -0.6553425903259662 | na |
+| Qualifier #161 | 2025-05-10 | not started | 19:01:35 | 0 | 0 | 38247A | 4886P | 79298P | 78877A | 0.41471758643463863 | na |
+| Qualifier #162 | 2025-05-10 | not started | 19:05:30 | 0 | 0 | 9364X | 33705X | 7830N | 3168H | 0.3215165781618239 | na |
+| Qualifier #163 | 2025-05-10 | not started | 19:09:25 | 0 | 0 | 35993B | 95070F | 12161N | 9568X | 0.9802419494719482 | na |
+| Qualifier #164 | 2025-05-10 | not started | 19:13:20 | 0 | 0 | 3012A | 663J | 393V | 23118R | -0.1106387069762238 | na |
+| Qualifier #165 | 2025-05-11 | not started | 09:15:00 | 0 | 0 | 20315B | 8223Z | 47510A | 1028G | 0.6080018724311417 | na |
+| Qualifier #166 | 2025-05-11 | not started | 09:18:50 | 0 | 0 | 86254X | 29566V | 18190Y | 97310C | -0.053808566438437566 | na |
+| Qualifier #167 | 2025-05-11 | not started | 09:22:40 | 0 | 0 | 99009B | 2088B | 66799T | 73548A | 0.3818937298721474 | na |
+| Qualifier #168 | 2025-05-11 | not started | 09:26:30 | 0 | 0 | 77774V | 106D | 4613P | 54008B | 0.8124019273069993 | na |
+| Qualifier #169 | 2025-05-11 | not started | 09:30:20 | 0 | 0 | 79901A | 6390F | 75442A | 18716A | -0.09389979849502428 | na |
+| Qualifier #170 | 2025-05-11 | not started | 09:34:10 | 0 | 0 | 8871A | 98548N | 89089Y | 4139B | -0.25088115534519195 | na |
+| Qualifier #171 | 2025-05-11 | not started | 09:38:00 | 0 | 0 | 1231B | 1474X | 7139X | 40994B | 0.147293543938948 | na |
+| Qualifier #172 | 2025-05-11 | not started | 09:41:50 | 0 | 0 | 2616V | 1089F | 38Z | 7830N | 0.21081853824373598 | na |
+| Qualifier #173 | 2025-05-11 | not started | 09:45:40 | 0 | 0 | 50021A | 24658J | 76426C | 43010S | 0.5783359060992437 | na |
+| Qualifier #174 | 2025-05-11 | not started | 09:49:30 | 0 | 0 | 99656A | 2502M | 38247A | 71610R | 0.18405027415243191 | na |
+| Qualifier #175 | 2025-05-11 | not started | 09:53:20 | 0 | 0 | 8778Z | 857V | 9039N | 1831A | 0.15614556991492368 | na |
+| Qualifier #176 | 2025-05-11 | not started | 09:57:10 | 0 | 0 | 1281Z | 78877A | 17760R | 3168H | 0.17317574101323563 | na |
+| Qualifier #177 | 2025-05-11 | not started | 10:01:00 | 0 | 0 | 4591X | 64410A | 4886P | 10102Z | -0.7964957556691656 | na |
+| Qualifier #178 | 2025-05-11 | not started | 10:04:50 | 0 | 0 | 9364X | 938E | 56448B | 12768A | 0.02115113615915143 | na |
+| Qualifier #179 | 2025-05-11 | not started | 10:08:40 | 0 | 0 | 11556A | 57711V | 45000B | 1698A | -0.6684818126250796 | na |
+| Qualifier #180 | 2025-05-11 | not started | 10:12:30 | 0 | 0 | 7481E | 70699A | 15155E | 83561A | -0.07308361799346441 | na |
+| Qualifier #181 | 2025-05-11 | not started | 10:16:20 | 0 | 0 | 3588Y | 31319X | 79298P | 52800B | 0.3297076365487841 | na |
+| Qualifier #182 | 2025-05-11 | not started | 10:20:10 | 0 | 0 | 61187E | 33705X | 27908V | 74074E | 0.07716560406796558 | na |
+| Qualifier #183 | 2025-05-11 | not started | 10:24:00 | 0 | 0 | 8871A | 8223Z | 66799T | 10012W | -0.2740085276430513 | na |
+| Qualifier #184 | 2025-05-11 | not started | 10:27:50 | 0 | 0 | 18190Y | 50021A | 79901A | 89089Y | 1.0060687839000413 | na |
+| Qualifier #185 | 2025-05-11 | not started | 10:31:40 | 0 | 0 | 2088B | 4139B | 95070F | 3012A | 0.5159874367252395 | na |
+| Qualifier #186 | 2025-05-11 | not started | 10:35:30 | 0 | 0 | 7139X | 9568X | 99656A | 1281Z | 0.23117672493682406 | na |
+| Qualifier #187 | 2025-05-11 | not started | 10:39:20 | 0 | 0 | 1028G | 54008B | 64410A | 73548A | 0.6026587587149441 | na |
+| Qualifier #188 | 2025-05-11 | not started | 10:43:10 | 0 | 0 | 12768A | 75442A | 24658J | 1474X | -0.8928145466182226 | na |
+| Qualifier #189 | 2025-05-11 | not started | 10:47:00 | 0 | 0 | 4591X | 78877A | 57711V | 29566V | -0.7780250543279977 | na |
+| Qualifier #190 | 2025-05-11 | not started | 10:50:50 | 0 | 0 | 7830N | 20315B | 2502M | 35993B | -0.1393412441125499 | na |
+| Qualifier #191 | 2025-05-11 | not started | 10:54:40 | 0 | 0 | 52800B | 4886P | 6390F | 1698A | -0.9342686593792174 | na |
+| Qualifier #192 | 2025-05-11 | not started | 10:58:30 | 0 | 0 | 15155E | 38Z | 4613P | 10102Z | 0.17586082040362006 | na |
+| Qualifier #193 | 2025-05-11 | not started | 11:02:20 | 0 | 0 | 8778Z | 11556A | 1231B | 938E | 0.23952773494495594 | na |
+| Qualifier #194 | 2025-05-11 | not started | 11:06:10 | 0 | 0 | 98548N | 43010S | 33705X | 31319X | 0.14814634908674384 | na |
+| Qualifier #195 | 2025-05-11 | not started | 11:10:00 | 0 | 0 | 12161N | 23118R | 56448B | 74074E | -0.5121498768851237 | na |
+| Qualifier #196 | 2025-05-11 | not started | 11:13:50 | 0 | 0 | 663J | 857V | 99009B | 1089F | -0.1389870640032076 | na |
+| Qualifier #197 | 2025-05-11 | not started | 11:17:40 | 0 | 0 | 9039N | 3168H | 106D | 71610R | -0.1413787229339898 | na |
+| Qualifier #198 | 2025-05-11 | not started | 11:21:30 | 0 | 0 | 47510A | 45000B | 9364X | 77774V | 0.11236215565006757 | na |
+| Qualifier #199 | 2025-05-11 | not started | 11:25:20 | 0 | 0 | 17760R | 38247A | 3588Y | 61187E | -0.0425475308521861 | na |
+| Qualifier #200 | 2025-05-11 | not started | 11:29:10 | 0 | 0 | 86254X | 27908V | 10012W | 83561A | -0.24123572906777557 | na |
+| Qualifier #201 | 2025-05-11 | not started | 11:33:00 | 0 | 0 | 40994B | 97310C | 2616V | 1831A | -0.05681690233684922 | na |
+| Qualifier #202 | 2025-05-11 | not started | 11:36:50 | 0 | 0 | 7481E | 79298P | 393V | 18716A | -0.14194592710031328 | na |
+| Qualifier #203 | 2025-05-11 | not started | 11:40:40 | 0 | 0 | 70699A | 4613P | 4139B | 76426C | -0.16283653038495327 | na |
