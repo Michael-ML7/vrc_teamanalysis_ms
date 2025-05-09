@@ -1,0 +1,37 @@
+# Match Results for Team 3168H
+
+| Event Name | Event Type | Qualification | Match Name | Start Time | Team Score | Opponent Score | Winning Margin | Normalised Winning Margin | Verdict | Team Alliance | Winning Alliance | Red Team 1 | Red Team 2 | Blue Team 1 | Blue Team 2 |
+|------------|------------|---------------|------------|------------|------------|-----------------|----------------|---------------------------|---------|---------------|------------------|------------|------------|-------------|-------------|
+| Auckland V5RC #5: Tournament | Other | None | Qualifier #6 | 2024-09-20T18:54:33-04:00 | 0 | 32 | -32 | -1.0 | L | red | blue | 3168H | 2900A | 2915E | 2941D |
+| Auckland V5RC #5: Tournament | Other | None | Qualifier #10 | 2024-09-20T19:11:32-04:00 | 16 | 21 | -5 | -0.13513513513513514 | L | blue | red | 22020X | 2918J | 3168H | 2941A |
+| Auckland V5RC #5: Tournament | Other | None | Qualifier #15 | 2024-09-20T19:36:20-04:00 | 0 | 9 | -9 | -1.0 | L | blue | red | 2921R | 2900A | 2900C | 3168H |
+| Auckland V5RC #5: Tournament | Other | None | Qualifier #20 | 2024-09-20T20:02:26-04:00 | 21 | 20 | 1 | 0.024390243902439025 | W | red | red | 3168H | 2915X | 2915E | 2923C |
+| Auckland V5RC #5: Tournament | Other | None | Qualifier #24 | 2024-09-20T21:03:06-04:00 | 3 | 8 | -5 | -0.45454545454545453 | L | red | blue | 3168H | 2923B | 2915U | 3168X |
+| Auckland V5RC #5: Tournament | Other | None | Qualifier #28 | 2024-09-20T21:22:12-04:00 | 8 | 3 | 5 | 0.45454545454545453 | W | red | red | 2921X | 3168H | 2941C | 2921F |
+| Auckland V5RC #5: Tournament | Other | None | Qualifier #35 | 2024-09-20T21:54:09-04:00 | 3 | 3 | 0 | 0.0 | D | blue | Tie | 2923A | 2921F | 3168H | 70591A |
+| Auckland V5RC #5: Tournament | Other | None | Qualifier #39 | 2024-09-20T22:12:58-04:00 | 3 | 6 | -3 | -0.3333333333333333 | L | red | blue | 2900C | 3168H | 70591A | 22020X |
+| Auckland V5RC #5: Tournament | Other | None | Qualifier #51 | 2024-09-20T22:48:00-04:00 | 0 | 0 | 0 | -1 | D | blue | Tie | 2918C | 2941G | 3168H | 2941C |
+| Auckland V5RC #5: Tournament | Other | None | Qualifier #47 | 2024-09-20T22:53:00-04:00 | 23 | 18 | 5 | 0.12195121951219512 | W | blue | blue | 2941A | 2941D | 2918C | 3168H |
+| Auckland V5RC #5: Tournament | Other | None | Qualifier #53 | 2024-09-20T22:56:00-04:00 | 0 | 0 | 0 | -1 | D | blue | Tie | 2923A | 2923C | 2923B | 3168H |
+| Auckland V5RC #5: Tournament | Other | None | QF #1-1 | 2024-09-20T23:17:38-04:00 | 6 | 15 | -9 | -0.42857142857142855 | L | blue | red | 2915E | 2915X | 2941G | 3168H |
+| Auckland V5RC #7: Tournament | Other | None | Qualifier #3 | 2024-11-01T17:46:22-04:00 | 3 | 9 | -6 | -0.5 | L | red | blue | 3168H | 2950A | 2915U | 22020X |
+| Auckland V5RC #7: Tournament | Other | None | Qualifier #5 | 2024-11-01T17:55:16-04:00 | 4 | 45 | -41 | -0.8367346938775511 | L | blue | red | 22020Z | 2915E | 3168H | 2923B |
+| Auckland V5RC #7: Tournament | Other | None | Qualifier #9 | 2024-11-01T18:15:36-04:00 | 15 | 3 | 12 | 0.6666666666666666 | W | blue | blue | 2915U | 2950A | 3168H | 3168X |
+| Auckland V5RC #7: Tournament | Other | None | Qualifier #11 | 2024-11-01T18:27:24-04:00 | 6 | 22 | -16 | -0.5714285714285714 | L | blue | red | 2996C | 22020X | 3168H | 2996A |
+| Auckland V5RC #7: Tournament | Other | None | Qualifier #18 | 2024-11-01T18:58:39-04:00 | 17 | 6 | 11 | 0.4782608695652174 | W | red | red | 2996A | 3168H | 2996B | 3168X |
+| Auckland V5RC #7: Tournament | Other | None | Qualifier #19 | 2024-11-01T20:01:17-04:00 | 31 | 27 | 4 | 0.06896551724137931 | W | red | red | 3168H | 2918C | 2923B | 22020X |
+| Auckland V5RC #7: Tournament | Other | None | Qualifier #22 | 2024-11-01T20:15:58-04:00 | 14 | 23 | -9 | -0.24324324324324326 | L | red | blue | 2996B | 3168H | 2918J | 22020Z |
+| Auckland V5RC #7: Tournament | Other | None | Qualifier #27 | 2024-11-01T20:36:18-04:00 | 12 | 24 | -12 | -0.3333333333333333 | L | blue | red | 2915E | 3168X | 3168H | 52392B |
+| Auckland V5RC #7: Tournament | Other | None | Qualifier #32 | 2024-11-01T21:05:37-04:00 | 26 | 13 | 13 | 0.3333333333333333 | W | red | red | 3168H | 2923B | 2996C | 52392B |
+| Auckland V5RC #7: Tournament | Other | None | Qualifier #35 | 2024-11-01T21:17:53-04:00 | 13 | 41 | -28 | -0.5185185185185185 | L | blue | red | 2918C | 2918J | 3168H | 2950A |
+| Auckland V5RC #7: Tournament | Other | None | QF #2-1 | 2024-11-01T21:41:08-04:00 | 11 | 4 | 7 | 0.4666666666666667 | W | blue | blue | 2996C | 2915U | 2923B | 3168H |
+| Auckland V5RC #7: Tournament | Other | None | SF #1-1 | 2024-11-01T21:49:32-04:00 | 11 | 48 | -37 | -0.6271186440677966 | L | blue | red | 2915E | 22020X | 2923B | 3168H |
+| 2024/25 NZ Kiwibots VEX V5RC National Championships: High Stakes: New Zealand Middle School and High School VEX High Stakes Nationals 2024/25 Season | National | World Championship | Qualifier #4 | 2025-02-14T16:25:59-05:00 | 11 | 21 | -10 | -0.3125 | L | blue | red | 2996C | 7031A | 3168H | 66108X |
+| 2024/25 NZ Kiwibots VEX V5RC National Championships: High Stakes: New Zealand Middle School and High School VEX High Stakes Nationals 2024/25 Season | National | World Championship | Qualifier #22 | 2025-02-14T17:29:16-05:00 | 17 | 0 | 17 | 1.0 | W | red | red | 3168H | 64000K | 2941F | 78611Z |
+| 2024/25 NZ Kiwibots VEX V5RC National Championships: High Stakes: New Zealand Middle School and High School VEX High Stakes Nationals 2024/25 Season | National | World Championship | Qualifier #53 | 2025-02-14T20:16:54-05:00 | 29 | 20 | 9 | 0.1836734693877551 | W | blue | blue | 5606C | 2923B | 3168H | 11169F |
+| 2024/25 NZ Kiwibots VEX V5RC National Championships: High Stakes: New Zealand Middle School and High School VEX High Stakes Nationals 2024/25 Season | National | World Championship | Qualifier #73 | 2025-02-14T21:24:49-05:00 | 21 | 25 | -4 | -0.08695652173913043 | L | red | blue | 3168H | 52392D | 2941A | 2915G |
+| 2024/25 NZ Kiwibots VEX V5RC National Championships: High Stakes: New Zealand Middle School and High School VEX High Stakes Nationals 2024/25 Season | National | World Championship | Qualifier #92 | 2025-02-14T22:32:08-05:00 | 17 | 16 | 1 | 0.030303030303030304 | W | red | red | 3168H | 2941G | 2908V | 88883K |
+| 2024/25 NZ Kiwibots VEX V5RC National Championships: High Stakes: New Zealand Middle School and High School VEX High Stakes Nationals 2024/25 Season | National | World Championship | Qualifier #102 | 2025-02-15T15:06:20-05:00 | 26 | 17 | 9 | 0.20930232558139536 | W | blue | blue | 56507R | 3168X | 3168H | 22020X |
+| 2024/25 NZ Kiwibots VEX V5RC National Championships: High Stakes: New Zealand Middle School and High School VEX High Stakes Nationals 2024/25 Season | National | World Championship | Qualifier #122 | 2025-02-15T16:21:35-05:00 | 39 | 8 | 31 | 0.6595744680851063 | W | blue | blue | 2903U | 52392A | 3168H | 2941E |
+| 2024/25 NZ Kiwibots VEX V5RC National Championships: High Stakes: New Zealand Middle School and High School VEX High Stakes Nationals 2024/25 Season | National | World Championship | Qualifier #141 | 2025-02-15T17:22:25-05:00 | 14 | 26 | -12 | -0.3 | L | red | blue | 2941D | 3168H | 4067B | 93241C |
+| 2024/25 NZ Kiwibots VEX V5RC National Championships: High Stakes: New Zealand Middle School and High School VEX High Stakes Nationals 2024/25 Season | National | World Championship | Qualifier #160 | 2025-02-15T18:31:11-05:00 | 0 | 13 | -13 | -1.0 | L | blue | red | 3204X | 52392B | 2941C | 3168H |

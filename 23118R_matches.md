@@ -1,0 +1,24 @@
+# Match Results for Team 23118R
+
+| Event Name | Event Type | Qualification | Match Name | Start Time | Team Score | Opponent Score | Winning Margin | Normalised Winning Margin | Verdict | Team Alliance | Winning Alliance | Red Team 1 | Red Team 2 | Blue Team 1 | Blue Team 2 |
+|------------|------------|---------------|------------|------------|------------|-----------------|----------------|---------------------------|---------|---------------|------------------|------------|------------|-------------|-------------|
+| Philippine VEX Robotics Competition: V5RC Tournament 2 | Other | None | Qualifier #2 | 2024-11-21T22:07:31-05:00 | 3 | 3 | 0 | 0.0 | D | blue | Tie | 3818M | 23118H | 3818F | 23118R |
+| Philippine VEX Robotics Competition: V5RC Tournament 2 | Other | None | Qualifier #4 | 2024-11-21T22:19:54-05:00 | 10 | 33 | -23 | -0.5348837209302325 | L | red | blue | 23118R | 3818B | 23118M | 32881X |
+| Philippine VEX Robotics Competition: V5RC Tournament 2 | Other | None | Qualifier #7 | 2024-11-21T22:48:08-05:00 | 14 | 3 | 11 | 0.6470588235294118 | W | red | red | 3818N | 23118R | 3818F | 3818D |
+| Philippine VEX Robotics Competition: V5RC Tournament 2 | Other | None | Qualifier #10 | 2024-11-21T23:57:43-05:00 | 12 | 14 | -2 | -0.07692307692307693 | L | blue | red | 3818C | 61956A | 23118R | 23118H |
+| Philippine VEX Robotics Competition: V5RC Tournament 2 | Other | None | Qualifier #13 | 2024-11-22T00:25:59-05:00 | 29 | 6 | 23 | 0.6571428571428571 | W | red | red | 3818A | 23118R | 3818B | 3818D |
+| Philippine VEX Robotics Competition: V5RC Tournament 2 | Other | None | Qualifier #18 | 2024-11-22T00:56:59-05:00 | 7 | 17 | -10 | -0.4166666666666667 | L | blue | red | 23118M | 3818N | 3818C | 23118R |
+| Philippine VEX Robotics Competition: V5RC Tournament 2 | Other | None | SF #1-1 | 2024-11-22T02:55:46-05:00 | 18 | 0 | 18 | 1.0 | W | blue | blue | 32881X | 23118M | 23118H | 23118R |
+| Philippine VEX Robotics Competition: V5RC Tournament 2 | Other | None | Final #1-1 | 2024-11-22T03:20:43-05:00 | 9 | 25 | -16 | -0.47058823529411764 | L | red | blue | 23118H | 23118R | 3818A | 3818B |
+| Philippine VEX Robotics Competition: V5RC Tournament 2 | Other | None | Final #1-2 | 2024-11-22T03:32:45-05:00 | 22 | 12 | 10 | 0.29411764705882354 | W | red | red | 23118H | 23118R | 3818A | 3818B |
+| Philippine VEX Robotics Competition: V5RC Tournament 2 | Other | None | Final #1-3 | 2024-11-22T03:44:17-05:00 | 0 | 29 | -29 | -1.0 | L | red | blue | 23118H | 23118R | 3818A | 3818B |
+| Philippine VEX Robotics Competition: V5RC National Championship | National | World Championship | Qualifier #4 | 2024-12-12T22:03:51-05:00 | 33 | 14 | 19 | 0.40425531914893614 | W | blue | blue | 3818B | 23118P | 23118R | 23118H |
+| Philippine VEX Robotics Competition: V5RC National Championship | National | World Championship | Qualifier #6 | 2024-12-12T22:19:13-05:00 | 32 | 34 | -2 | -0.030303030303030304 | L | red | blue | 32881X | 23118R | 61956A | 23118M |
+| Philippine VEX Robotics Competition: V5RC National Championship | National | World Championship | Qualifier #9 | 2024-12-12T22:38:51-05:00 | 32 | 13 | 19 | 0.4222222222222222 | W | blue | blue | 14344T | 61956A | 3818A | 23118R |
+| Philippine VEX Robotics Competition: V5RC National Championship | National | World Championship | Qualifier #15 | 2024-12-12T23:18:58-05:00 | 12 | 24 | -12 | -0.3333333333333333 | L | red | blue | 3818M | 23118R | 14344K | 3818D |
+| Philippine VEX Robotics Competition: V5RC National Championship | National | World Championship | Qualifier #17 | 2024-12-13T00:16:57-05:00 | 20 | 36 | -16 | -0.2857142857142857 | L | blue | red | 14344T | 14344K | 23118R | 23118B |
+| Philippine VEX Robotics Competition: V5RC National Championship | National | World Championship | Qualifier #20 | 2024-12-13T00:40:42-05:00 | 28 | 25 | 3 | 0.05660377358490566 | W | red | red | 23118R | 23118B | 14344M | 3818C |
+| Philippine VEX Robotics Competition: V5RC National Championship | National | World Championship | Qualifier #25 | 2024-12-13T01:29:09-05:00 | 41 | 21 | 20 | 0.3225806451612903 | W | red | red | 23118R | 23118M | 23118H | 3818A |
+| Philippine VEX Robotics Competition: V5RC National Championship | National | World Championship | Qualifier #28 | 2024-12-13T01:50:14-05:00 | 7 | 34 | -27 | -0.6585365853658537 | L | blue | red | 32881X | 3818D | 23118R | 3818M |
+| Philippine VEX Robotics Competition: V5RC National Championship | National | World Championship | QF #2-1 | 2024-12-13T04:32:24-05:00 | 23 | 16 | 7 | 0.1794871794871795 | W | red | red | 23118R | 23118H | 23118P | 23118B |
+| Philippine VEX Robotics Competition: V5RC National Championship | National | World Championship | SF #1-1 | 2024-12-13T05:06:19-05:00 | 20 | 35 | -15 | -0.2727272727272727 | L | blue | red | 23118M | 32881X | 23118R | 23118H |
